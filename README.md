@@ -14,7 +14,6 @@ Welcome to Oskar Magnusson's repository of programming projects! This collection
 Below is a list of the main projects included in this repository, along with a brief description of each:
 
 1. **XG Calculator**: A mobile application that computes the xG (Expected Goals) for a soccer shot.
-2. **Nuggets Game**: A machine learning model for predicting stock prices using Python and TensorFlow.
 
 Each project is contained in its own directory and includes a dedicated README file with detailed information.
 
