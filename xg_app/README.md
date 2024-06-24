@@ -15,7 +15,7 @@ The xG Calculator app is designed to provide soccer enthusiasts with a tool to c
 ![Screenshot 4](Example_Screenshots/IOS_screenshot_4.png)
 
 ## Video
-![Video 1](Example_Screenshots/xG_App_Example_Video.MP4)
+For a video example of the app, view [xG Video Example](xG_App_Example_Video.MP4)
 
 ## Getting Started
 To get started with the xG Calculator app, follow these steps:
