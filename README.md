@@ -45,6 +45,6 @@ For any questions, suggestions, or feedback, feel free to contact me:
 
 - **Name**: Oskar Magnusson
 - **Email**: oskaratlimagnusson@gmail.com
-- **GitHub**: [oskar-magnusson](https://github.com/oskar-magnusson)
+- **GitHub**: [oskaram](https://github.com/oskaram)
 
 Thank you for visiting my repository! I hope you find these projects useful and inspiring.
