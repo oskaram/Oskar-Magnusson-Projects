@@ -7,9 +7,7 @@ Welcome to Oskar Magnusson's repository of programming projects! This collection
 1. [Projects Overview](#projects-overview)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+4. [Contact](#contact)
 
 ## Projects Overview
 
