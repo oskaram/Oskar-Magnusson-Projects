@@ -13,9 +13,10 @@ Welcome to Oskar Magnusson's repository of programming projects! This collection
 
 Below is a list of the main projects included in this repository, along with a brief description of each:
 
-1. **XG Calculator**: A mobile application that computes the xG (Expected Goals) for a soccer shot.
+1. **xG Calculator**: A mobile application that computes the xG (Expected Goals) for a soccer shot.
+2. **MIDI Controller**: A MIDI Controller built from scratch as the final project in ENGS031, Digital electronics course at Dartmouth College.
 
-Each project is contained in its own directory and includes a dedicated README file with detailed information.
+Each project is contained in its own directory and includes a dedicated README file if needed with detailed information.
 
 ## Installation
 
