@@ -23,7 +23,7 @@ To get started with any of the projects, follow these general steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/oskar-magnusson/programming-projects.git
+    git clone git@github.com:oskaram/Oskar-Magnusson-Projects.git
     cd programming-projects
     ```
 
